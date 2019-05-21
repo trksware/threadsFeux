@@ -1,0 +1,17 @@
+nouveaux Pietons
+EST Continue
+est Continue
+est vert
+ouest Continue
+ouest TourneDroite
+est rouge
+ouest rouge
+sud TourneGauche
+ouest TourneDroite
+est vert
+est rouge
+ouest rouge
+sud vert
+est rouge
+ouest rouge
+sud vert
